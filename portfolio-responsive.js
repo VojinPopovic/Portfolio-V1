@@ -1,0 +1,4 @@
+AOS.init({
+    mirror:true
+
+});
